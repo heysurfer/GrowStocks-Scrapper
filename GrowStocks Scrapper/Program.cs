@@ -49,7 +49,7 @@ namespace GrowStocks_Scrapper
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine(e.ToString());
+                  //  Console.WriteLine(e.ToString());
                 }
 
                 
