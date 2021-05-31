@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrowStocks Scrapper", "GrowStocks Scrapper\GrowStocks Scrapper.csproj", "{385EC0DA-725A-40BE-9381-52F25F6D7EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{385EC0DA-725A-40BE-9381-52F25F6D7EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385EC0DA-725A-40BE-9381-52F25F6D7EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385EC0DA-725A-40BE-9381-52F25F6D7EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385EC0DA-725A-40BE-9381-52F25F6D7EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A5E5BAF-7CAA-4D6E-9BBA-9EE05D537F28}
+	EndGlobalSection
+EndGlobal
