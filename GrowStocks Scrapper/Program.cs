@@ -18,11 +18,11 @@ namespace GrowStocks_Scrapper
         {
             Console.Title = "GrowStocks Scrapper";
 
-            string[] line = File.ReadAllLines("item.txt", Encoding.UTF8);
+            string[] line = File.ReadAllLines("item.txt", Encoding.UTF8); //3.62 items.dat
      
             foreach (string itemname in line)
             {
-                Thread.Sleep(1500); //rate limit bypass
+                //Thread.Sleep(1500); //rate limit bypass
                 string repitemname = Regex.Replace(itemname, @"\s+", "+");
                 string contents;
                 try
